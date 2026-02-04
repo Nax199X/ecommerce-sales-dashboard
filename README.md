@@ -68,5 +68,8 @@ Python (Pandas) | Tableau | VS Code
 🔗 View Interactive Dashboard on Tableau Public:
 [Click here to view the dashboard](https://public.tableau.com/views/E-commerceSalesDashboard_17701889527500/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## 📷 Dashboard Preview 
+<img width="2158" height="1078" alt="Dashboard 1" src="https://github.com/user-attachments/assets/77c59d93-34cf-4f3e-bc26-58d4b11a0e2e" />
+
 
 
